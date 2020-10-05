@@ -10,10 +10,7 @@
             Programming Analyst</a> at <a href="https://durhamcollege.ca/">Durham College</a>.
     </p>
     <h2>Projects!</h2>
-    <p></p>
-    <div class="social-icons">
-          <p class="field"><a class="button is-medium" href="https://twitter.com/gabriellegawa" target="_blank"><span class="icon is-small"><i class="fab fa-twitter fa-fw"></i></span></a><a class="button is-medium" href="https://www.linkedin.com/in/gabriellegawa/" target="_blank"><span class="icon is-small"><i class="fab fa-linkedin-in fa-fw"></i></span></a></p>
-        </div>
+    <p><a href="https://github.com/bilanganz/Durak"><img src="./images/durakCardGame.jpg" alt="Durak Card Game"></a></p>
 </body>
 
 </html>
