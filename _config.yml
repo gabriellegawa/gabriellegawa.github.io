@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Gabriel Nathan Legawa
 description: My Portofolio
-{% include_relative ./footer.html %}
+author: Gabriel Nathan Legawa
