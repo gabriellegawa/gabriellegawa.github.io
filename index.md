@@ -1,7 +1,7 @@
 <html>
 
 <body>
-    <h1>Hello World!</h1>
+    <!--<h1>Hello World!</h1>
     <p>Hi, welcome to my portfolio page where I will display all activities and projects.</p>
     <h2>About Me</h2>
     <p>My full name is Gabriel Nathan Legawa, but my nickname is Nathan. I loves programming, video games, and breaking
@@ -10,7 +10,7 @@
             Programming Analyst</a> at <a href="https://durhamcollege.ca/">Durham College</a>.
     </p>
     <h2>Projects!</h2>
-    <p><a href="https://github.com/bilanganz/Durak"><img src="./images/durakCardGame.jpg" alt="Durak Card Game"></a></p>
+    <p><a href="https://github.com/bilanganz/Durak"><img src="./images/durakCardGame.jpg" alt="Durak Card Game"></a></p>-->
     <h2>MODE 4201</h2>
     <p>
     <table>
